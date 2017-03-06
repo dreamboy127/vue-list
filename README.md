@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://hejx.herokuapp.com/vue-list/">
-    <img src="https://github.com/Alex-fun/vue-list/blob/master/src/assets/preview.2.png?raw=true" width="500" center alt="view"/>
+  <a href="https://dreamboy127.github.io/vue-page/">
+    <img src="https://github.com/dreamboy127/vue-list/blob/master/src/assets/preview.2.png?raw=true" width="500" center alt="view"/>
   </a>
 </p>
 <p align="center">
