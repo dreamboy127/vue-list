@@ -3,7 +3,7 @@
     <header>
       <h1 class="title">vue-list</h1>
       <p>A solution to build an infinite load more list component.</p>
-      <p><a class="button" href="https://github.com/dreamboy/vue-list">Code on Github</a> / <a class="button" href="https://github.com/dreamboy">My profile</a></p>
+      <p><a class="button" href="https://github.com/dreamboy127/vue-list">Code on Github</a> / <a class="button" href="https://github.com/dreamboy127">My profile</a></p>
     </header>
     <div class="content">
       <div class="preview">
